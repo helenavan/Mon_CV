@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+</head>
+<body>
+	<div id="header">
+		<h1>Wally Veren</h1>
+	</div>
+	<div id="container">
+		<div id="left-box">
+			<img src="meca.jpg">
+			<ul>
+				<li>Cyber Compagnon de vie.</li></br>
+				<li><b>Email :</b> </br>Wally@empaty.company.com</li></br>
+				<li><b>Langues étrangères :</b></br>toutes langues humaines</li></br>
+				<li><b>Loisirs :</b></br>Rapsberry, cyberdémontage</li>
+		</ul>
+		</div>
+		<div id="right-box">
+			<div id="experience-box">
+				<div class="experience">
+					<h2>Mes expériences</h2>
+					<ul>
+						<li><b>De 2190 à 2196 :</b> compagnon d'humains et animateur dans une maison de repos pour humains âgés. Animateur intergénérationnel dans un hangar de jeunes robots</li>
+						<li><b>De 2197 à 2199 :</b> robot à tout faire chez des particuliers humains.</li>
+					</ul>
+				</div>
+			</div>
+			<div id="studies-box">
+				<div class="study">
+					<h2>Mes études</h2>
+					<ul>
+						<li>CyberCompagnon, je réalise également toutes vos réparations en robotique et en formatique. </li>
+						<li>J'ai également des connaissances en Android:interface</li>
+						</ul>
+				</div>
+			</div>
+		</div>
+	</div> 
+	<div id="footer">
+		<a href=""><img src="8.png" alt=""><img src="19.png" alt=""><img src="23.png" alt=""><img src="25.png" alt=""><img src="31.png"></a>
+	</div>
+
+</body>
+</html>
+
+
+
